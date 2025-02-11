@@ -1,0 +1,170 @@
+***question***
+¿Cuál es el río más largo del mundo?
+***category***
+geografía
+azul
+***answer***
+a. El río Nilo
+***correct***
+false
+***answer***
+b. El río Amazonas
+***correct***
+true
+***answer***
+c. El río Yangtsé
+***correct***
+false
+***question***
+¿Quién escribió "Don Quijote de la Mancha"?
+***category***
+arte y literatura
+morado
+***answer***
+a. Miguel de Cervantes
+***correct***
+true
+***answer***
+b. Federico García Lorca
+***correct***
+false
+***answer***
+c. Gabriel García Márquez
+***correct***
+false
+***question***
+¿En qué año comenzó la Segunda Guerra Mundial?
+***category***
+historia
+amarillo
+***answer***
+a. 1935
+***correct***
+false
+***answer***
+b. 1939
+***correct***
+true
+***answer***
+c. 1941
+***correct***
+false
+***question***
+¿Quién ganó el Óscar a Mejor Película en 1994 con "Forrest Gump"?
+***category***
+entretenimiento
+rosa
+***answer***
+a. Pulp Fiction
+***correct***
+false
+***answer***
+b. Forrest Gump
+***correct***
+true
+***answer***
+c. Cadena perpetua
+***correct***
+false
+***question***
+¿Cuál es el elemento químico con símbolo "O"?
+***category***
+ciencias y naturaleza
+verde
+***answer***
+a. Oro
+***correct***
+false
+***answer***
+b. Oxígeno
+***correct***
+true
+***answer***
+c. Osmio
+***correct***
+false
+***question***
+¿Quién tiene el récord de más goles en la historia del fútbol?
+***category***
+deportes y pasatiempos
+naranja
+***answer***
+a. Pelé
+***correct***
+false
+***answer***
+b. Cristiano Ronaldo
+***correct***
+true
+***answer***
+c. Lionel Messi
+***correct***
+false
+***question***
+¿Cuál es el país más grande del mundo por superficie?
+***category***
+geografía
+azul
+***answer***
+a. Canadá
+***correct***
+false
+***answer***
+b. Rusia
+***correct***
+true
+***answer***
+c. China
+***correct***
+false
+***question***
+¿Quién pintó "La Última Cena"?
+***category***
+arte y literatura
+morado
+***answer***
+a. Miguel Ángel
+***correct***
+false
+***answer***
+b. Leonardo da Vinci
+***correct***
+true
+***answer***
+c. Rafael
+***correct***
+false
+***question***
+¿En qué año llegó el hombre a la Luna?
+***category***
+historia
+amarillo
+***answer***
+a. 1965
+***correct***
+false
+***answer***
+b. 1969
+***correct***
+true
+***answer***
+c. 1972
+***correct***
+false
+***question***
+¿Cuál fue la primera película animada de Disney?
+***category***
+entretenimiento
+rosa
+***answer***
+a. Blancanieves y los siete enanitos
+***correct***
+true
+***answer***
+b. Cenicienta
+***correct***
+false
+***answer***
+c. Pinocho
+***correct***
+false

@@ -1,0 +1,32 @@
+Estoy desarrollando un programa en java de trivial entonces necesito introducir mis preguntas en el programa de alguna forma entonces he creado un metodo para importar un fichero en el que sigue esta estructura:
+
+***question***
+la pregunta es....(La pregunta que se le hace al usuario)
+***category***
+(Nombre de la categoria en minusculas)
+(color indicado en la documentacion en ingles y en minusculas)
+***answer***
+Respuesta (Respuesta que se le muestra al usuario son 3 respuestas por pregunta por lo tanto esta seria (a. Esta respuesta es esta por que esta)
+***correct***
+false(tipo booleano en el que la respuesta correcta se marca como true y las demas false)
+***answer***
+Respuesta(Respuesta que se le muestra al usuario son 3 respuestas por pregunta por lo tanto esta seria (b. Esta respuesta es esta por que esta)
+***correct***
+false(tipo booleano en el que la respuesta correcta se marca como true y las demas false)
+***answer***
+respuesta(Respuesta que se le muestra al usuario son 3 respuestas por pregunta por lo tanto esta seria (c. Esta respuesta es esta por que esta)
+***correct***
+true(tipo booleano en el que la respuesta correcta se marca como true y las demas false)
+***answer***
+respuesta(Respuesta que se le muestra al usuario son 3 respuestas por pregunta por lo tanto esta seria (d. Esta respuesta es esta por que esta)
+***correct***
+false(tipo booleano en el que la respuesta correcta se marca como true y las demas false)
+
+
+las categorias de las preguntas con su correspondiente color son:
+Habrá 6: Geografía (azul), arte y literatura (morado), historia (amarillo),
+entretenimiento (rosa), ciencias y naturaleza (verde), y deportes y pasatiempos
+(naranja) 
+
+generame 10 para ver como lo haces
+
